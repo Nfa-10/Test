@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "21EtZr31A1STN5kCPlWI8SgD2tmTPeAbsHgefUFrKwI=",
+  "Source": "DemoExceptionFilter",
+  "BasePath": "_content/DemoExceptionFilter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
